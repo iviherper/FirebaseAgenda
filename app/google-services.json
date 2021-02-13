@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093702367628",
+    "project_id": "fir-agenda-e51c4",
+    "storage_bucket": "fir-agenda-e51c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093702367628:android:bd5b3879f065cb51803ea9",
+        "android_client_info": {
+          "package_name": "com.example.firebaseagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093702367628-2iakvtou5k584i9aane9btqlahm3j3r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_Tlp5y2L-o3b5y2XCzyA5dZYLxTCFsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093702367628-2iakvtou5k584i9aane9btqlahm3j3r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
